@@ -43,7 +43,7 @@ By the end of the notebook, you should gain insights into how Mistral 7b, LangCh
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Gjeffroy/Mistral7b_scientific_article/blob/main/LICENSE.md) file for details.
 
 ## Acknowledgments
 
