@@ -1,6 +1,6 @@
 # Mistral 7b Scientific Vulgarisator
 
-This repository contains a Jupyter notebook developed on Google Colab for developing a scientific vulgarisator based on Mistral 7b. The implementation uses LangChain and Transformer models to generate simplified and accessible summaries of complex scientific articles.
+This repository houses a Jupyter notebook developed on Google Colab, aiming to unlock the power of Mistral 7B, LangChain, and Transformer models for summarizing scientific articles.
 
 ## Overview
 
@@ -48,5 +48,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - Mistral 7b: https://mistral.ai/fr/news/announcing-mistral-7b/
-- LangChain: [Insert link]
-- Transformer models (Hugging Face's Transformers): [Insert link]
+- LangChain: https://github.com/langchain-ai/langchain
+- Transformer models https://github.com/huggingface/transformers
