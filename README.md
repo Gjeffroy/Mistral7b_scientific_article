@@ -47,6 +47,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- Mistral 7b: [https://mistral.ai/fr/news/announcing-mistral-7b/]
+- Mistral 7b: https://mistral.ai/fr/news/announcing-mistral-7b/
 - LangChain: [Insert link]
 - Transformer models (Hugging Face's Transformers): [Insert link]
